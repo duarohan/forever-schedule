@@ -1,1 +1,1 @@
-worker: forever node app.js
+worker: npx forever start app.js

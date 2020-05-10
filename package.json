@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/duarohan/forever-schedule#readme",
   "dependencies": {
+    "forever": "^2.0.0",
     "node-cron": "^2.0.3"
   }
 }
