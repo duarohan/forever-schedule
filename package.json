@@ -1,0 +1,22 @@
+{
+  "name": "forever-schedule",
+  "version": "1.0.0",
+  "description": "cron practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duarohan/forever-schedule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duarohan/forever-schedule/issues"
+  },
+  "homepage": "https://github.com/duarohan/forever-schedule#readme",
+  "dependencies": {
+    "node-cron": "^2.0.3"
+  }
+}
