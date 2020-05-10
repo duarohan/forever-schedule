@@ -1,1 +1,1 @@
-worker: npx forever start app.js
+worker: npx forever start --minUptime 2000 --spinSleepTime 4000 app.js
